@@ -1,4 +1,3 @@
 *.pyc
 _pycache_/
 service_key.json
-.env
